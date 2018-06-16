@@ -2,7 +2,7 @@
   "name": "generator-android-mvvm",
   "version": "0.0.0",
   "description": "Generator for a clean, simple, robust Android MVVM architecture using Kotlin, Dagger, Rx & Architecture components",
-  "homepage": "",
+  "homepage": "https://github.com/ovy9086/generator-android-mvvm",
   "author": {
     "name": "Ovidiu Latcu",
     "email": "ovidiu.latcu@gmail.com",
@@ -52,7 +52,7 @@
     "prepublishOnly": "nsp check",
     "pretest": "eslint .",
     "precommit": "lint-staged",
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "lint-staged": {
     "*.js": [
