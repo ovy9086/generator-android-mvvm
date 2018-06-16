@@ -1,5 +1,5 @@
 # generator-android-mvvm [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Generator for a clean, simple, robust Android MVVM architecture using Kotlin, Dagger, Rx &amp; Architecture components
+> Generator for a clean, simple, robust Android MVVM architecture using Kotlin, Dagger, Rx &amp; Architecture components.
 
 ## Installation
 
