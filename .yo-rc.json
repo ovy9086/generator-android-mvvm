@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ovidiu Latcu",
+      "authorEmail": "ovidiu.latcu@gmail.com",
+      "authorUrl": "https://medium.com/@ovidiu.latcu"
+    }
+  }
+}
